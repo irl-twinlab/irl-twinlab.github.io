@@ -4,7 +4,6 @@ title: Aufnahmen
 permalink: /calls/
 description: Aufnahmen von unseren Vorträgen
 nav: false
-nav_order: 8
 display_categories: [Twin.Lab Calls, Vorträge]
 horizontal: false
 ---
