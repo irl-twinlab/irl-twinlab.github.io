@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://irl-twinlab.github.io/sitemap.xml
+Sitemap: https://twinlab-irl.github.io/sitemap.xml
