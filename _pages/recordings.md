@@ -3,7 +3,7 @@ layout: page
 title: Aufnahmen
 permalink: /calls/
 description: Aufnahmen von unseren Vorträgen
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Twin.Lab Calls, Vorträge]
 horizontal: false
