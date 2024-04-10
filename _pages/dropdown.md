@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Rechtliches
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Impressum
+    permalink: /impressum/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Datenschutzerklärung
+    permalink: /datenschutzerklaerung/
 ---
