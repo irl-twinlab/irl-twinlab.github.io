@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Projekt ist gestartet.
+Unsere ersten Veröffentlichung ist auf BIM Deutschland verfügbar. 
